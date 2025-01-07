@@ -1,0 +1,111 @@
+{
+  "brightness": 150,
+  "signatures": [
+    {
+      "name": "RED_CAP",
+      "parameters": {
+        "uMin": 7835,
+        "uMax": 11491,
+        "uMean": 9662,
+        "vMin": -2127,
+        "vMax": -727,
+        "vMean": -1426,
+        "rgb": 2757392,
+        "type": 0,
+        "name": "RED_CAP"
+      },
+      "range": 3
+    },
+    {
+      "name": "SIG_2",
+      "parameters": {
+        "uMin": 0,
+        "uMax": 0,
+        "uMean": 0,
+        "vMin": 0,
+        "vMax": 0,
+        "vMean": 0,
+        "rgb": 0,
+        "type": 0,
+        "name": "SIG_2"
+      },
+      "range": 3
+    },
+    {
+      "name": "SIG_3",
+      "parameters": {
+        "uMin": 0,
+        "uMax": 0,
+        "uMean": 0,
+        "vMin": 0,
+        "vMax": 0,
+        "vMean": 0,
+        "rgb": 0,
+        "type": 0,
+        "name": "SIG_3"
+      },
+      "range": 3
+    },
+    {
+      "name": "SIG_4",
+      "parameters": {
+        "uMin": 0,
+        "uMax": 0,
+        "uMean": 0,
+        "vMin": 0,
+        "vMax": 0,
+        "vMean": 0,
+        "rgb": 0,
+        "type": 0,
+        "name": "SIG_4"
+      },
+      "range": 3
+    },
+    {
+      "name": "SIG_5",
+      "parameters": {
+        "uMin": 0,
+        "uMax": 0,
+        "uMean": 0,
+        "vMin": 0,
+        "vMax": 0,
+        "vMean": 0,
+        "rgb": 0,
+        "type": 0,
+        "name": "SIG_5"
+      },
+      "range": 3
+    },
+    {
+      "name": "SIG_6",
+      "parameters": {
+        "uMin": 0,
+        "uMax": 0,
+        "uMean": 0,
+        "vMin": 0,
+        "vMax": 0,
+        "vMean": 0,
+        "rgb": 0,
+        "type": 0,
+        "name": "SIG_6"
+      },
+      "range": 3
+    },
+    {
+      "name": "SIG_7",
+      "parameters": {
+        "uMin": 0,
+        "uMax": 0,
+        "uMean": 0,
+        "vMin": 0,
+        "vMax": 0,
+        "vMean": 0,
+        "rgb": 0,
+        "type": 0,
+        "name": "SIG_7"
+      },
+      "range": 3
+    }
+  ],
+  "codes": []
+}
